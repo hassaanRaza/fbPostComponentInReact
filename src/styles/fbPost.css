@@ -1,0 +1,46 @@
+.avatar{
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.createdBy{
+    color: #365899;
+    font-weight: bold;
+}
+
+.createdAt{
+    color: #616770;
+    font-size: 10px;
+}
+
+.likes{
+    color: #616770;
+}
+
+.fbPost-BC{
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 2px;
+}
+
+.App-BC{
+    background-color: #e9ebee;
+  }
+
+.fbPost-Margin{
+    margin: 10px 0 10px 0;
+}
+
+.fbPost-Padding-Top{
+    padding-top: 10px;
+}
+
+.fbPost-Padding-Bottom{
+    padding-bottom: 10px;
+}
+
+.center{
+    text-align: center;
+}
+

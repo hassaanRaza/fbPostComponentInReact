@@ -1,5 +1,9 @@
-.App {
-  text-align: center;
+.App-BC{
+  background-color: #e9ebee;
+}
+
+.App-Margin {
+  margin-top: 10px !important;
 }
 
 .App-logo {
